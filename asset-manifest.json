@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tneb-Application/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Tneb-Application/static/js/main.f5a5bff9.chunk.js",
+    "main.js.map": "/Tneb-Application/static/js/main.f5a5bff9.chunk.js.map",
+    "runtime-main.js": "/Tneb-Application/static/js/runtime-main.2c266a49.js",
+    "runtime-main.js.map": "/Tneb-Application/static/js/runtime-main.2c266a49.js.map",
+    "static/js/2.e38c4e2e.chunk.js": "/Tneb-Application/static/js/2.e38c4e2e.chunk.js",
+    "static/js/2.e38c4e2e.chunk.js.map": "/Tneb-Application/static/js/2.e38c4e2e.chunk.js.map",
+    "static/js/3.b77cd3a9.chunk.js": "/Tneb-Application/static/js/3.b77cd3a9.chunk.js",
+    "static/js/3.b77cd3a9.chunk.js.map": "/Tneb-Application/static/js/3.b77cd3a9.chunk.js.map",
+    "index.html": "/Tneb-Application/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Tneb-Application/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e38c4e2e.chunk.js.LICENSE.txt": "/Tneb-Application/static/js/2.e38c4e2e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Tneb-Application/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c266a49.js",
+    "static/js/2.e38c4e2e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f5a5bff9.chunk.js"
+  ]
+}
